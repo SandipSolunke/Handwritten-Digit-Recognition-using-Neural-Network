@@ -1,10 +1,10 @@
 ## Handwritten-Digit-Recognition-using-Neural-Network
 
 # Features :
-# The model is implemented without using any libreries except numpy and pandas.
-# Training Data Accuracy : 97.60714285714286
-# Testing Data Accuracy : 94.65476190476191 
-# Dataset : MNSIT dataset
+The model is implemented without using any libreries except numpy and pandas.
+Training Data Accuracy : 97.60714285714286
+Testing Data Accuracy : 94.65476190476191 
+Dataset : MNSIT dataset
 
 # Approach: 
 We will approach this project by using a three-layered Neural Network. 
