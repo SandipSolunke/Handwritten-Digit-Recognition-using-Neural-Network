@@ -2,8 +2,8 @@
 
 ## Features :
 ### * The model is implemented without using any libreries except numpy and pandas.
-### * Training Data Accuracy : 97.60714285714286
-### * Testing Data Accuracy : 94.65476190476191 
+### * Training Data Accuracy : 97.60
+### * Testing Data Accuracy : 94.65 
 ### * Dataset : MNSIT dataset
 
 ## Approach: 
